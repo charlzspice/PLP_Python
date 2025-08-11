@@ -16,3 +16,20 @@ A simple command-line calculator built with Python.
 
 ```bash
 python calculator.py
+
+week_2_Assignment
+📋 Python List Operations
+## A Python script demonstrating list creation, insertion, extension, deletion, sorting, and indexing.
+
+🔧 Features
+## Creates an empty list and appends elements
+
+Inserts an element at a specific position
+
+Extends the list with another list
+
+Removes the last element
+
+Sorts the list in ascending order
+
+Finds and prints the index of a specific value
