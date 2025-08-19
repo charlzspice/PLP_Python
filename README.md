@@ -33,3 +33,6 @@ Removes the last element
 Sorts the list in ascending order
 
 Finds and prints the index of a specific value
+
+week_3_Assignment
+ ## conatins the laetst assignment for week 3 
